@@ -27,7 +27,7 @@ export const BoardListStyles = styled.div`\
   }
 
   th[id="title"] {
-    width: 60%; /* "제목" 셀 너비를 80%로 설정합니다. */
+    width: 60%; /* "제목" 셀 너비를 80%로 설정합니. */
   }
 
   table th {
